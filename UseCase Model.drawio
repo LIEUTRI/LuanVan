@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T02:12:40.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="oAuUhqjjyp8JPbmG37TT" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T02:15:07.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="OtyV1MWVkGejnWvd_U9c" version="13.7.1" type="github">
   <diagram id="_4UQwpn9pqXSoXFsW3Js" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AMx2edkECyHvp3eWlHPG-436" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="160" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="AMx2edkECyHvp3eWlHPG-428" value="Login/Signup" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -28,14 +31,29 @@
         <mxCell id="AMx2edkECyHvp3eWlHPG-435" value="&lt;b&gt;Mobile App For Customer/Merchant&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="50" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AMx2edkECyHvp3eWlHPG-436" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="160" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="AMx2edkECyHvp3eWlHPG-445" value="&lt;b&gt;Customer&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AMx2edkECyHvp3eWlHPG-448" value="&lt;b&gt;Merchant&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-451" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-452" value="Receive Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-453" value="Update Order Status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-454" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-455" value="&lt;b&gt;Shipper&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AMx2edkECyHvp3eWlHPG-456" value="&lt;b&gt;Shipper&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
